@@ -1,7 +1,6 @@
 from PIL import Image
 import random
 from check import get_between_day_list
-from Db import Db
 
 
 class Pic:
